@@ -6,7 +6,7 @@
 <%@ Register Assembly="Telerik.ReportViewer.WebForms, Version=5.0.11.328, Culture=neutral, PublicKeyToken=a9d7983dfcc261be"
     Namespace="Telerik.ReportViewer.WebForms" TagPrefix="telerik" %>
 
-<%@ Register Assembly="Ext.Net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=2e12ce3d0176cd87"
+<%@ Register Assembly="Ext.Net, Culture=neutral, PublicKeyToken=2e12ce3d0176cd87"
     Namespace="Ext.Net" TagPrefix="ext" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
