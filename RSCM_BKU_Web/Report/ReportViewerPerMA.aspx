@@ -6,7 +6,7 @@
 <%@ Register Assembly="Telerik.Web.UI, Version=2012.2.607.35, Culture=neutral, PublicKeyToken=121fae78165ba3d4"
     Namespace="Telerik.Web.UI" TagPrefix="telerik" %>
 
-<%@ Register Assembly="Ext.Net, Culture=neutral, PublicKeyToken=2e12ce3d0176cd87"
+<%@ Register Assembly="Ext.Net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=2e12ce3d0176cd87"
     Namespace="Ext.Net" TagPrefix="ext" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
